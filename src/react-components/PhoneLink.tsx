@@ -1,6 +1,6 @@
 import React from 'react'
 import { PhoneLinkProps } from '../types'
-import { createPhoneNumber } from '../utils'
+import { createPhoneNumber } from '../utils/create-phone-number'
 
 export function PhoneLink({
 	phone,

@@ -1,6 +1,6 @@
 import React from 'react'
 import { WhatsAppLinkProps } from '../types'
-import { createWhatsAppLink } from '../utils'
+import { createWhatsAppLink } from '../utils/create-whatsapp-link'
 
 export function WhatsAppLink({
 	phone,

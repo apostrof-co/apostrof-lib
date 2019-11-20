@@ -1,5 +1,6 @@
 import { CSSObject } from '@emotion/core'
-import { formatNumber, hexToRGB } from '../utils'
+import { formatNumber } from '../utils/format-number'
+import { hexToRGB } from '../utils/hex-to-rgb'
 
 const scrimStops = [
 	[1, 0],

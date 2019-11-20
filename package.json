@@ -4,7 +4,7 @@
 	"license": "MIT",
 	"author": "Ryandi Tjia",
 	"main": "dist/index.js",
-	"module": "dist/apostrof.esm.js",
+	"module": "dist/lib.esm.js",
 	"typings": "dist/index.d.ts",
 	"files": [
 		"dist"
