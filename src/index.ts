@@ -1,4 +1,5 @@
 // Hooks
+export { useOnClickOutside } from './hooks/useOnClickOutside'
 export { useOnScreen } from './hooks/useOnScreen'
 // Mixins
 export { autoGrid } from './mixins/auto-grid'
