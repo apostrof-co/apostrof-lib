@@ -1,6 +1,8 @@
 // Hooks
 export { useOnScreen } from './hooks/useOnScreen'
 // Mixins
+export { autoGrid } from './mixins/auto-grid'
+export { fluidFontSize } from './mixins/fluid-font-size'
 export { scrimGradient } from './mixins/scrim-gradient'
 // React components
 export { ApostrofLogo } from './react-components/ApostrofLogo'
